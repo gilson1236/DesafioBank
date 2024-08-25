@@ -1,4 +1,4 @@
-##Programa que calcula o ângulo entre os ponteiros das horas e minutos
+Programa que calcula o ângulo entre os ponteiros das horas e minutos
 
 O que foi contemplado como condições?
 
