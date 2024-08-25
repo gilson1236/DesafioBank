@@ -15,6 +15,7 @@ Tecnologias utilizadas no projeto
 * JSON como content-type de retorno <img align="center" alt=""JSON height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg"><br>
 </div>
 
-Use a url para testar: http://localhost:8080/rest/clock/hora/minuto ou http://localhost:8080/rest/clock/hora 
+
+###Use a url para testar: http://localhost:8080/rest/clock/hora/minuto ou http://localhost:8080/rest/clock/hora 
 caso queira calcular o ângulo com o minuto zero.
 
