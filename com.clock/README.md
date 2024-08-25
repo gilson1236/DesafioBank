@@ -16,6 +16,6 @@ Tecnologias utilizadas no projeto
 </div>
 
 
-###Use a url para testar: http://localhost:8080/rest/clock/hora/minuto ou http://localhost:8080/rest/clock/hora 
+Use a url para testar: http://localhost:8080/rest/clock/hora/minuto ou http://localhost:8080/rest/clock/hora 
 caso queira calcular o ângulo com o minuto zero.
 
