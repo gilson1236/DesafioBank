@@ -14,7 +14,7 @@ Tecnologias utilizadas no projeto
 * Maven <img align="center" alt="Maven" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg"><br>
 * JSON como content-type de retorno <img align="center" alt=""JSON height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg"><br>
 </div>
-
+<br>
 
 Use a url para testar: http://localhost:8080/rest/clock/hora/minuto ou http://localhost:8080/rest/clock/hora 
 caso queira calcular o ângulo com o minuto zero.
